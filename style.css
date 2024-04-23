@@ -1,0 +1,23 @@
+#cont{
+ width: 25%;
+ margin: auto;
+display: grid;
+gap: 20px;
+/* border: 1px solid black; */
+
+}
+#cont>div{
+    /* border: 1px solid green; */
+    border-radius: 10px;
+    padding-left: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    
+}
+button{
+    border-radius: 8px;
+    width: 150px;
+    height: 50px;
+    margin-left: 45%;
+    margin-bottom: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
